@@ -1,7 +1,5 @@
 # Capstone_Projects
 
-Collection of Data Science Projects
-
  1. Capstone project from Wesleyan University's Data Analysis and Interpretation specialization on Coursera: Tackles a DrivenData.org project to classify repair status of water pumps in Tanzania. The project includes a full written report of findings as well as a predictive model for use in the competition.
 
     * PDF:  Predictive Models for Maintenance of Water Pumps in Remote Locations.pdf
