@@ -14,6 +14,5 @@
     
  
  3. Text generation project: Recurrent Neural Networks (RNN) to produce computer-generate poetry and other text. (Tensorflow)
-    - (In progress)
-    
+    - please view project at https://github.com/mvenouziou/Capstone-Project-Text-Generation
  
