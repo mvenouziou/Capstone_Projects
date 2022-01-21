@@ -1,7 +1,7 @@
 # Capstone Projects
 
-### [**Object Detection: DETR for Tensorflow**](https://github.com/mvenouziou/DETR_for_TF)
-- Implementation of DETR object detection model in Tensorflow. This hybrid CNN / attention transformer model has been coded from first principles as presented in the paper *End-to-End Object Detection with Transformers (2020)* published by Facebook AI. 
+### [**Object Detection: Boosted DETR**](https://github.com/mvenouziou/DETR_for_TF)
+- Original model architecture combining the concept of model boosting with the existing DETR object detection model. This also includes an Tensorflow implementation of the original DETR (hybrid CNN / attention transformer) model, coded from first principles as presented in the paper *End-to-End Object Detection with Transformers (2020)* published by Facebook AI. 
  
 
 ### [**Image to Text Translation: Attention is What You Get**](https://github.com/mvenouziou/Project-Attention-Is-What-You-Get)
